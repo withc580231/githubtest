@@ -1,1 +1,2 @@
-document.write('blabla...')
+document.write('blabla..')
+console.log('haha')
