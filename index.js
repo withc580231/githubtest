@@ -1,3 +1,6 @@
 
-console.log('haha')
-console.log('heihei')
+console.log('hahaheihei')
+console.log('heiheihaha')
+function biu() {
+  return true
+}
