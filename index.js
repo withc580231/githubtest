@@ -1,6 +1,6 @@
 
-console.log('hahaheihei')
-console.log('heiheihaha')
-function biu() {
+console.log('ai')
+console.log('niu')
+function pupu() {
   return true
 }
